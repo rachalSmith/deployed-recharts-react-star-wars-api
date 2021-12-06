@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/deployed-recharts-react-star-wars-api/static/css/main.16de13b7.chunk.css",
+    "main.js": "/deployed-recharts-react-star-wars-api/static/js/main.a62c8c87.chunk.js",
+    "main.js.map": "/deployed-recharts-react-star-wars-api/static/js/main.a62c8c87.chunk.js.map",
+    "runtime-main.js": "/deployed-recharts-react-star-wars-api/static/js/runtime-main.40a92a35.js",
+    "runtime-main.js.map": "/deployed-recharts-react-star-wars-api/static/js/runtime-main.40a92a35.js.map",
+    "static/js/2.ea62abb6.chunk.js": "/deployed-recharts-react-star-wars-api/static/js/2.ea62abb6.chunk.js",
+    "static/js/2.ea62abb6.chunk.js.map": "/deployed-recharts-react-star-wars-api/static/js/2.ea62abb6.chunk.js.map",
+    "static/js/3.74aa8fa7.chunk.js": "/deployed-recharts-react-star-wars-api/static/js/3.74aa8fa7.chunk.js",
+    "static/js/3.74aa8fa7.chunk.js.map": "/deployed-recharts-react-star-wars-api/static/js/3.74aa8fa7.chunk.js.map",
+    "index.html": "/deployed-recharts-react-star-wars-api/index.html",
+    "static/css/main.16de13b7.chunk.css.map": "/deployed-recharts-react-star-wars-api/static/css/main.16de13b7.chunk.css.map",
+    "static/js/2.ea62abb6.chunk.js.LICENSE.txt": "/deployed-recharts-react-star-wars-api/static/js/2.ea62abb6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40a92a35.js",
+    "static/js/2.ea62abb6.chunk.js",
+    "static/css/main.16de13b7.chunk.css",
+    "static/js/main.a62c8c87.chunk.js"
+  ]
+}
